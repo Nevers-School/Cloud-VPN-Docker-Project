@@ -58,6 +58,5 @@ PEERS are the number of user-config-files to generate, or the names of user-conf
 Hit CTRL + X, Y, ENTER to save and exit the file.
 
 Start Wireguard by running these:
-
 cd ~/wireguard/
 docker-compose up -d
